@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 For fun
+🔭 For fun
 
 - Ghost https://codesandbox.io/s/awesome-ghost-with-css-6w182
 - Mustache https://codesandbox.io/s/compassionate-firefly-khdb4?file=/index.html
